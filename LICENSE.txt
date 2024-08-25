@@ -1,0 +1,30 @@
+Brute Asset Control License Agreement
+Version 1.0.0
+
+Copyright © 2024 Firas Hares. All rights reserved.
+
+1. **License Grant**:
+   - You are granted a non-exclusive, non-transferable license to use Brute Asset Control ("the Software") for personal or commercial purposes, provided that you comply with the terms of this agreement.
+
+2. **Restrictions**:
+   - You may not distribute, sublicense, lease, or sell the Software without prior written consent from the author.
+   - You may not modify, decompile, reverse engineer, or disassemble the Software.
+
+3. **Ownership**:
+   - The Software is licensed, not sold. The author retains all ownership rights, title, and interest in and to the Software.
+
+4. **Limitation of Liability**:
+   - The Software is provided "as is" without warranty of any kind. The author is not liable for any damages arising from the use or inability to use the Software.
+
+5. **Termination**:
+   - This license is effective until terminated. Failure to comply with any term of this agreement will result in the automatic termination of your license.
+
+6. **Governing Law**:
+   - This license agreement is governed by the laws of Tunisia. Any disputes arising under this agreement shall be resolved in the courts of Tunisia.
+
+7. **Contact Information**:
+   - If you have any questions or need further information, please contact the author at firas.hrs@gmail.com.
+
+Thank you for using Brute Asset Control.
+
+Firas Hares
