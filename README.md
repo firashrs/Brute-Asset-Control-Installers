@@ -1,12 +1,12 @@
 # Brute Asset Control
 
 <p align="center">
-  <img src="logo.png" alt="Brute Asset Control Logo">
+  <img src="Media/logo.png" alt="Brute Asset Control Logo">
 </p>
 
 **Brute Asset Control** is a free desktop personal budgeting application designed to help you manage your finances efficiently. Whether you're tracking incomes, expenses, budget goals, or bills, Brute Asset Control has you covered. Developed using **C#** and **.NET 8**, with a focus on **Avalonia** and the **MVVM architecture**, it offers a robust and user-friendly experience. The application uses a local **SQLite database**, managed through **Entity Framework**, ensuring your data is both secure and easily accessible.
 
-![Screenshot of Brute Asset Control](screenshot.png)
+![Screenshot of Brute Asset Control](Media/screenshot.png)
 
 ## Features
 
@@ -32,13 +32,13 @@ The development of Brute Asset Control involved the use of several advanced tool
 
 The development of Brute Asset Control was an intensive **34-day journey**, during which significant progress was made through a series of structured and focused commits. Each commit represents a step forward in the application's functionality, stability, and user experience.
 
-![List of Commits](commits.png)
+![List of Commits](Media/commits.png)
 
 This list of commits showcases the detailed work and dedication put into refining every aspect of the application, from initial setup to the final touches. Whether it was implementing core features, resolving bugs, or optimizing performance, each stage was meticulously documented to ensure transparency and continuous improvement.
 
 ## Screenshots
 
-![Screenshot of Brute Asset Control](screenshot.png)
+![Screenshot of Brute Asset Control](Media/screenshot.png)
 
 ## Demo
 
@@ -67,5 +67,5 @@ For any inquiries or feedback, feel free to reach out:
 Thank you for using Brute Asset Control!
 
 <p align="center">
-  <img src="logo.png" alt="Brute Asset Control Logo">
+  <img src="Media/logo.png" alt="Brute Asset Control Logo">
 </p>
