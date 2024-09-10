@@ -36,6 +36,13 @@ The development of Brute Asset Control was an intensive **34-day journey**, duri
 
 This list of commits showcases the detailed work and dedication put into refining every aspect of the application, from initial setup to the final touches. Whether it was implementing core features, resolving bugs, or optimizing performance, each stage was meticulously documented to ensure transparency and continuous improvement.
 
+Here are an initial scetch for the application interface from the early stages of development.
+
+<p align="center">
+  <img src="appScetch.jpeg" alt="Application interface scetch" width="600">
+</p>
+
+
 ## Screenshots
 
 ![Screenshot of Brute Asset Control](Media/screenshot.png)
@@ -51,6 +58,9 @@ To install Brute Asset Control, simply download the installer from this reposito
 1. Download the installer file.
 2. Run the installer.
 3. Follow the on-screen instructions.
+
+
+
 
 ## License
 
